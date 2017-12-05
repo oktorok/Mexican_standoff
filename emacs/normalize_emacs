@@ -1,0 +1,14 @@
+<esc>gg 3<enter>
+<left><left><left><left><left><left><space>
+<esc>gg 17<enter>
+<left><left><left><left><left><left><left><left><space>
+<esc>gg 5<enter>
+<C-space><C-space>
+<esc>gg 8<enter>
+<C-w>
+<esc>gg 3<enter>
+<C-y>
+<C-c><C-h>
+<ecs>gg 12<enter><enter>
+<esc>x whitespaces-cleanup<enter>
+<esc>x indent-buffer<enter>
